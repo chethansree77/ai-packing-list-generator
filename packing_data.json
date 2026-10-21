@@ -1,0 +1,258 @@
+[
+    {
+        "id": "1789987263575",
+        "destination": "goa",
+        "days": 1,
+        "season": "Summer",
+        "packing_data": {
+            "clothes": [
+                "🩳 1 pair of comfortable shorts or cotton trousers",
+                "👕 2 breathable cotton t-shirts",
+                "🩱 1 swimwear/swimshorts",
+                "🩴 1 pair of flip-flops or comfortable sandals",
+                "🧢 1 sun cap or hat"
+            ],
+            "personal_items": [
+                "🧴 High SPF sunscreen",
+                "🦟 Mosquito repellent cream",
+                "🕶️ UV protection sunglasses",
+                "🪥 Toothbrush and toothpaste",
+                "🧼 Travel-sized soap and shampoo"
+            ],
+            "travel_essentials": [
+                "🆔 Valid government-issued ID card (Aadhaar/Driver's License)",
+                "💳 Cash and debit/credit cards",
+                "📱 Smartphone and portable charger",
+                "🔑 House and vehicle keys",
+                "🎒 1 lightweight day backpack"
+            ],
+            "weather_tips": [
+                "☀️ Goa summers are hot and humid, so stay hydrated by drinking plenty of water and coconut water.",
+                "🏖️ Plan outdoor sightseeing during the early morning or late afternoon to avoid peak afternoon heat.",
+                "🧴 Reapply sunscreen frequently and wear lightweight, loose-fitting cotton clothing to beat the humidity."
+            ]
+        },
+        "packed_items": [
+            "clothes_0",
+            "clothes_1",
+            "clothes_2",
+            "clothes_3",
+            "clothes_4",
+            "personal_0",
+            "personal_1",
+            "personal_2",
+            "personal_3",
+            "personal_4",
+            "essential_0",
+            "essential_1",
+            "essential_2",
+            "essential_3",
+            "essential_4"
+        ]
+    },
+    {
+        "id": "1789987355833",
+        "destination": "goa",
+        "days": 1,
+        "season": "Winter",
+        "packing_data": {
+            "clothes": [
+                "👕 1 comfortable t-shirt or casual shirt",
+                "🩳 1 pair of shorts or breathable trousers",
+                "🩱 1 swimwear/swim trunks for the beach",
+                "🩴 1 pair of flip-flops or comfortable sandals",
+                "🧥 1 light jacket or hoodie for breezy winter evenings"
+            ],
+            "personal_items": [
+                "🧴 Sunscreen lotion with high SPF",
+                "🕶️ Sunglasses for bright sunlight",
+                "🦟 Mosquito repellent cream",
+                "🦷 Toothbrush and toothpaste",
+                "🧼 Travel-size soap and shampoo"
+            ],
+            "travel_essentials": [
+                "🆔 Government-issued ID card (Aadhaar, Driving License, or Passport)",
+                "💳 Cash and debit/credit cards",
+                "📱 Smartphone and portable charger/power bank",
+                "🎒 1 lightweight daypack or backpack",
+                "🔌 Mobile charger"
+            ],
+            "weather_tips": [
+                "☀️ Pack sun protection as winter afternoons in Goa remain warm and sunny.",
+                "🌬️ Keep a light layer handy for cooler coastal night breezes.",
+                "💧 Stay hydrated throughout your day trip under the warm sun."
+            ]
+        },
+        "packed_items": []
+    },
+    {
+        "id": "9fdccc297248456a9813ebce7dee6592",
+        "destination": "hyderabad",
+        "days": 2,
+        "season": "Winter",
+        "packing_data": {
+            "clothes": [
+                "👕 2 Casual t-shirts or kurtis",
+                "👖 2 Comfortable trousers or jeans",
+                "🧥 1 Light jacket or cardigan for cool mornings and evenings",
+                "🧦 2 Pairs of cotton socks",
+                "🩲 3 Sets of undergarments",
+                "👟 1 Pair of comfortable walking shoes"
+            ],
+            "personal_items": [
+                "🦷 Toothbrush and toothpaste",
+                "🧴 Moisturizer and body lotion for dry winter air",
+                "💄 Lip balm",
+                "🧴 Sunscreen lotion",
+                "🧼 Travel-size soap and shampoo",
+                " comb or hairbrush"
+            ],
+            "travel_essentials": [
+                "🆔 Government-issued ID card",
+                "📱 Smartphone and charger",
+                "👛 Wallet with cash and cards",
+                "💧 Reusable water bottle",
+                "🎒 Small daypack for sightseeing",
+                "💊 Basic medicines for common ailments"
+            ],
+            "weather_tips": [
+                "🌤️ Hyderabad winters are pleasant during the day with temperatures around 15°C to 28°C.",
+                "🧥 Mornings and nights can get quite chilly, so always carry a light jacket or shawl.",
+                "🧴 The winter air can be dry, so a good moisturizer and lip balm are essential."
+            ]
+        },
+        "packed_categories": {
+            "clothes": false,
+            "personal_items": false,
+            "travel_essentials": false
+        }
+    },
+    {
+        "id": "d38092d9da364e898858e5e0f7ecbf2f",
+        "destination": "arraku",
+        "days": 2,
+        "season": "Monsoon",
+        "packing_data": {
+            "clothes": [
+                "👕 2 breathable cotton t-shirts",
+                "👖 2 comfortable trousers or jeans",
+                "🧥 1 light fleece or windcheater for chilly evenings",
+                "🧦 3 pairs of moisture-absorbing socks",
+                "🩲 3 sets of innerwear",
+                "🩳 1 pair of comfortable nightwear"
+            ],
+            "personal_items": [
+                "🦷 Toothbrush and toothpaste",
+                "🧴 Small bottle of body wash and shampoo",
+                "🦟 Mosquito repellent cream",
+                "📜 Basic first aid and personal medicines",
+                "🧻 Pocket tissues and wet wipes",
+                "🧴 Hand sanitizer"
+            ],
+            "travel_essentials": [
+                "🆔 Valid government photo ID card",
+                "📱 Smartphone and portable power bank",
+                "💵 Cash for local purchases and small stalls",
+                "💧 Reusable water bottle",
+                "🎒 Small waterproof day backpack",
+                "🔒 Mini padlock for baggage"
+            ],
+            "weather_tips": [
+                "🌧️ Always carry a sturdy umbrella or a waterproof raincoat as monsoon showers can start suddenly.",
+                "👟 Wear waterproof footwear or sturdy trekking shoes with good grip as paths near viewpoints can get slippery.",
+                "🎒 Use plastic pouches or a waterproof cover inside your bag to keep your electronics and documents safe."
+            ]
+        },
+        "packed_categories": {
+            "clothes": false,
+            "personal_items": false,
+            "travel_essentials": false
+        }
+    },
+    {
+        "id": "f9d4c6d18f7e446d9bcaab1609905d19",
+        "destination": "arraku",
+        "days": 1,
+        "season": "Summer",
+        "packing_data": {
+            "clothes": [
+                "👕 1 Breathable cotton t-shirt",
+                "👖 1 Comfortable pair of trousers or jeans",
+                "🩳 1 Spare change of innerwear",
+                "🧦 1 Pair of cotton socks",
+                "🧥 1 Light jacket for breezy evenings"
+            ],
+            "personal_items": [
+                "🧴 Sunscreen lotion with high SPF",
+                "🦷 Toothbrush and toothpaste",
+                "🧻 Pocket tissues and wet wipes",
+                "🧼 Small soap or hand sanitizer",
+                "comb or hairbrush"
+            ],
+            "travel_essentials": [
+                "🆔 Government-issued photo ID",
+                "📱 Smartphone and portable charger",
+                "👛 Cash and debit or credit cards",
+                "💧 Reusable water bottle",
+                "🎟️ Return travel tickets"
+            ],
+            "weather_tips": [
+                "☀️ Wear light cotton clothing to stay cool during sunny daytime hours",
+                "🕶️ Carry sunglasses and a cap to protect against strong afternoon sun",
+                "🍃 Pack a light layer as temperatures can drop slightly during evening hours in the hills"
+            ]
+        },
+        "packed_categories": {
+            "clothes": false,
+            "personal_items": false,
+            "travel_essentials": false
+        }
+    },
+    {
+        "id": "afcbc4c854b2410f935d6d2a407a7b74",
+        "destination": "goa",
+        "days": 2,
+        "season": "Winter",
+        "packing_data": {
+            "clothes": [
+                "🩳 2 pairs of shorts or lightweight skirts",
+                "👕 2 casual t-shirts or tank tops",
+                "🥻 1 breezy sundress or light ethnic kurta",
+                "👙 1-2 swimsuits or swimwear",
+                "🌙 1 light hoodie or cardigan for breezy winter nights",
+                "🩴 1 pair of comfortable flip-flops or sandals",
+                "🩲 3 pairs of undergarments",
+                "🧦 1 pair of socks"
+            ],
+            "personal_items": [
+                "🧴 Sunscreen with high SPF",
+                "🕶️ Sunglasses",
+                "🧢 Sun hat or cap",
+                "🦟 Mosquito repellent",
+                "🧴 Moisturizer and lip balm for winter dryness",
+                "🦷 Toothbrush and toothpaste",
+                "🧴 Travel-size shampoo and body wash",
+                "🪒 Deodorant"
+            ],
+            "travel_essentials": [
+                "🆔 Valid Government ID (Aadhaar or Driving License)",
+                "💳 Debit/Credit cards and some cash",
+                "📱 Smartphone and charger",
+                "🔋 Portable power bank",
+                "💊 Basic first-aid and personal medicines",
+                "🎒 Lightweight daypack or beach tote",
+                "💧 Reusable water bottle"
+            ],
+            "weather_tips": [
+                "☀️ Goa winters are warm and sunny during the day, so wear breathable cotton clothes.",
+                "🌙 Coastal evenings can get mildly breezy and cool, making a light jacket or stole useful.",
+                "💧 Stay hydrated and protect your skin with sunscreen even during the winter sun."
+            ]
+        },
+        "packed_categories": {
+            "clothes": false,
+            "personal_items": false,
+            "travel_essentials": false
+        }
+    }
+]
