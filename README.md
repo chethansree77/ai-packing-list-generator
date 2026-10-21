@@ -74,3 +74,16 @@ streamlit run app.py
 **Chintha Chethana Sai Sree**
 
 GitHub: [@chethansree77](https://github.com/chethansree77)
+
+
+
+## 📸 Application Screenshots
+
+### 1. Home Page
+![AI Packing List Generator Home Page](<assets/Home Page.png>)
+
+### 2. Trip Details
+![Trip Details](<assets/Trip Details.png>)
+
+### 3. Packing List
+![Generated Packing List](<assets/Packing List.png>)
